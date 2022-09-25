@@ -4,19 +4,19 @@
 @font-face {
 	font-family : "SCDream-light"; 
 	font-style : "normal"; 
-	src: url("/font/SCDream3.otf");
+	src: url("../font/SCDream3.otf");
 }
 
 @font-face {
 	font-family : "SCDream-bold"; 
 	font-style : "normal"; 
-	src: url("/font/SCDream5.otf");
+	src: url("../font/SCDream5.otf");
 }
 
 @font-face {
 	font-family : "SCDream-title"; 
 	font-style : "normal"; 
-	src: url("/font/SCDream7.otf");
+	src: url("../font/SCDream7.otf");
 }
 
 * {
